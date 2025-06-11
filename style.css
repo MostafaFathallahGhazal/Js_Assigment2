@@ -1,0 +1,23 @@
+.firstSection{
+    text-align: center;
+
+}
+.firstSection h1{
+    font-family:Impact;
+    font-size: 80px;
+}
+
+.firstSection button{
+    padding: 20px 50px;
+    background-color: blue;
+    transition: all 1s ;
+}
+.firstSection button:hover{
+    background-color: green;
+}
+#quote{
+    margin: 50px auto;
+    font-size: x-large;
+    font-family: sans-serif;
+    font-style: italic;
+}
